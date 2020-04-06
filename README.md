@@ -1,2 +1,2 @@
 # CuCloud0.1
-This is first trial
+these are the first versions of all our files we developed
